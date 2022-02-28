@@ -18,7 +18,7 @@
     "node-fetch": "3.0.0",
     "set-value": "4.1.0",
     "underscore": "1.13.1",
-    "yargs-parser": "20.2.9"
+    "yargs-parser": "21.0.1"
   },
   "license": "MIT",
   "scripts": {
