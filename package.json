@@ -15,7 +15,7 @@
   "dependencies": {
     "ansi-regex": "6.0.1",
     "lodash": "4.17.21",
-    "node-fetch": "3.0.0",
+    "node-fetch": "3.2.9",
     "set-value": "4.1.0",
     "underscore": "1.13.1",
     "yargs-parser": "20.2.9"
